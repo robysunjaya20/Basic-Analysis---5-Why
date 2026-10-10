@@ -5,6 +5,7 @@ export const DEPARTMENTS = [
   "MIRROR ASSY",
   "SEAT ASSY",
   "INJECTION",
+  "Finish Good"
 ];
 
 export const PROBLEMS = [
